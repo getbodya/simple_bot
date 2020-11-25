@@ -1,0 +1,18 @@
+{
+    "name": "todo-d",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://todo-bot-deploy.azurewebsites.net/api/messages",
+            "id": "56052de0-2e30-11eb-bc76-e919e9792450",
+            "name": "https://todo-bot-deploy.azurewebsites.net/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\DEV\\todo_bot\\todo-d.bot"
+}
