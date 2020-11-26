@@ -7,7 +7,7 @@
     "build": "tsc --build",
     "lint": "tslint -c tslint.json 'src/**/*.ts'",
     "buildBundles": "node ./node_modules/grunt/bin/grunt browserify",
-    "start": "node ./lib/app.js ",
+    "start": "node app.js ",
     "watch": "nodemon --watch ./src -e ts --exec \"npm run start\""
   },
   "author": "",
